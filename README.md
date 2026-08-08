@@ -1,7 +1,4 @@
 ### HTML JavaScript
-<img width="1920" height="1032" alt="paragrafo-alterado" src="https://github.com/user-attachments/assets/ae21c333-2edf-4493-b0fc-a5697da0a2f6" />
-
-
 
 <a href="https://github.com/user-attachments/assets/d03c9362-1103-4b5d-824f-2614a51e6a76">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/d03c9362-1103-4b5d-824f-2614a51e6a76" />
