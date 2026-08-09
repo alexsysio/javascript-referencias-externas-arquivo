@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### JavaScript referências externas arquivo myScript.js - Um parágrafo
+### O que o JavaScript pode fazer? | JavaScript referências externas arquivo myScript.js - Um parágrafo
 
 <a href="https://github.com/user-attachments/assets/0da8732f-f9a0-40eb-8b1c-56ba6d9d209b">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/0da8732f-f9a0-40eb-8b1c-56ba6d9d209b" />
